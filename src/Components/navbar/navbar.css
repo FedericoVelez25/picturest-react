@@ -1,0 +1,25 @@
+.navBarContainer {
+  display: flex;
+  justify-content: space-between;
+}
+/* margin-top: 25px; */
+
+.navBarLogo {
+  padding-top: 15px;
+  margin-top: 80px;
+  background-color: white;
+}
+
+.navBarButtons {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 15px;
+}
+
+.navBarButton {
+  margin-left: 15px;
+}
+
+.navBarUser {
+  margin-right: 15px;
+}

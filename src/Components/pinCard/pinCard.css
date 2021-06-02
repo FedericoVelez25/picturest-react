@@ -1,0 +1,13 @@
+.pinCard {
+}
+
+.pinImage {
+  width: 215px;
+  border-radius: 14px;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  margin-right: 21px;
+  margin-left: 21px;
+  margin-bottom: 30px;
+}

@@ -1,0 +1,19 @@
+.userCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.avatarImgCard {
+  position: relative;
+  width: 170px;
+  height: 175px;
+  border-radius: 100px;
+}
+
+.userHandle {
+  font-size: 24px;
+  font-weight: 500;
+}

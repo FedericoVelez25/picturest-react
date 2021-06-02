@@ -1,0 +1,21 @@
+.boardCard {
+  width: 215px;
+  height: 176px;
+  border-radius: 14px;
+  background-color: #eeabab;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  margin-right: 21px;
+  margin-left: 21px;
+  margin-bottom: 30px;
+}
+
+.boardName {
+  font-weight: 500;
+  font-size: 14px;
+  margin-left: 10px;
+}
+
+.pinLike {
+}

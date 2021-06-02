@@ -1,0 +1,23 @@
+.button {
+  width: 100px;
+  height: 43px;
+  border: none;
+  border-radius: 21.5px;
+  background-color: rgb(204, 199, 199);
+  font-size: 18px;
+  font-weight: 800;
+  margin-top: 7px;
+  margin-left: 20px;
+  font-weight: 500px;
+  cursor: pointer;
+}
+
+/* 
+
+border: 0;
+
+color: #ffffff;
+
+font-style: normal;
+font-weight: bold;
+justify-content: flex-start; */
